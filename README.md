@@ -3,7 +3,7 @@
 # Пример интернет магазина с использованием Django
 ![DEMO](ShopDjango/myshop/static/menu.jpg)
 ![DEMO](ShopDjango/myshop/static/opl.jpg)
-![DEMO](ShopDjango/myshop/static/pdf.jpg)
+![DEMO](myshop/static/pdf.jpg)
 
 ## О проекте
 
